@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1021162946101",
+    "project_id": "club-2f8df",
+    "storage_bucket": "club-2f8df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021162946101:android:cd74668d5c85c29bfdbb7c",
+        "android_client_info": {
+          "package_name": "com.example.clubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021162946101-f0iqe275qvc9hg0ds67li2ipkr6hjmgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fW4KfUuwbbUKDhhSmx_xv76No-KePH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021162946101-f0iqe275qvc9hg0ds67li2ipkr6hjmgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021162946101:android:a15a7e886d4b11a0fdbb7c",
+        "android_client_info": {
+          "package_name": "com.flexdu.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021162946101-f0iqe275qvc9hg0ds67li2ipkr6hjmgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fW4KfUuwbbUKDhhSmx_xv76No-KePH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021162946101-f0iqe275qvc9hg0ds67li2ipkr6hjmgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
